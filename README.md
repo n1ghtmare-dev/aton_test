@@ -8,6 +8,8 @@
 
 ## Install
 ```bash
+git clone git@github.com:n1ghtmare-dev/aton_test.git
+cd aton_test
 poetry install
 ```
 
